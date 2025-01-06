@@ -3,7 +3,7 @@ function App() {
     return (
         <Container>
             <Row>
-                <Col md={{span: 12 }} className="text-center nb-4">
+                <Col md={{span: 12 }} className="text-center mb-4">
                     <h1>ToDo App By Tasha Settewong</h1>
                 </Col>
             </Row>
